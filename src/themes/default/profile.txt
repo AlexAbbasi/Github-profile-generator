@@ -1,0 +1,20 @@
+{ name }
+
+{ profile_views }
+{ twitter }
+{ linkedin }
+{ instagram }
+{ email }
+{ homepage }
+{ github }
+
+{ description }
+
+{ skills }
+{ tech_stacks }
+
+{ github_stats }
+
+
+---
+:zap: To generate a `README.md` file like this for your profile, checkout [Github Readme Generator](https://hejazizo-github-profile-readme-srcstreamlit-app-i6skm7.streamlit.app/).
